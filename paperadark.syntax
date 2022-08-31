@@ -1,0 +1,21 @@
+[Editor.Custom]
+Assembler=$003232FF, clWhite, 0, 1, 0
+Character=$00808040, $00202020, 1, 0, 0
+Comment=clGray, $00202020, 1, 1, 0
+Float=$00FF9632, $00202020, 0, 1, 0
+Hexadecimal=$00FF9632, $00202020, 0, 0, 0
+Identifier=$004080FF, $00202020, 0, 0, 0
+Illegal Char=clRed, $00202020, 1, 0, 0
+Number=$00FF9632, $00202020, 1, 0, 0
+Octal=$00FF9632, $00202020, 1, 0, 0
+Preprocessor=$006464C8, $00202020, 1, 1, 0
+Reserved Word=$005A5AFF, $00202020, 1, 0, 0
+Space=$00202020, $00202020, 0, 0, 0
+String=$00808040, $00202020, 1, 0, 0
+Symbol=$005A5A5A, $00202020, 0, 0, 0
+Selected text=12632256, 4210752
+Gutter=6579300, 3158064
+Breakpoints=16777215, 16711935
+Error line=16777215, 255
+Active breakpoints=16777215, 8388736
+Folding lines=2105376, -16777201
